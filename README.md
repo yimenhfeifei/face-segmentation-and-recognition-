@@ -1,7 +1,7 @@
 # face-segmentation-and-recognition
  
 # My thesis: face segmentation and recognition (on processing)
-**This project is to segment face image such as extract face skin, eyes and mouse and so on as input then apply VGG-16 recognize the extracted images. **
+**This project is to segment the face dataset image, such as face skin, eyes and mouse and so on as an input of CNN,  then apply VGG-16 recognizing the extracted images. This project was implemented on AWS. Result will be posted after this experiment finish.. **
 This is only a part of files,
 I will post all files after the paper is accepted by conference. have fun!
 
